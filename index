@@ -1,8 +1,42 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<div id="my-locker" style="display: block;">
+
+    <!-- BEGIN: Content Locker Header -->
+    <div id="my-locker-top">
+        <!--<i class="fa fa-question-circle"></i>-->
+        <span><img src="https://s3-us-west-1.amazonaws.com/bucket.cpabuild.com/uploads/157802890702f341547b2d7e4bc4a8806d36f04f83.png"><span></span><hr></span>
+    </div>
+    <!-- END: Content Locker Header -->
+
+    <!-- BEGIN: Content Locker Body -->
+    <div id="my-locker-body">
+
+        <!-- BEGIN: Human Verification -->
+        <div id="my-locker-body-human-verification">
+            <button><i class="fa fa-spinner fa-spin"></i>Verify Through Survey</button>
+        </div>
+        <!-- END: Human Verification -->
+
+        <!-- BEGIN: Content Locker Offers -->
+        <div id="my-locker-body-offers">
+            <div class="my-locker-body-text-top">Complete an offer below to prove you are not a BOT. This step is to prevent Robot abuse of our generator.<p><b> Hacks will be applied once offer is complete!</b></p></div>
+            <div id="my-locker-body-offers-list" align="center"><a href="/public/click.php?offer=1196338&amp;offer_position=1&amp;visitor_id=361386915&amp;it=734754&amp;m=0&amp;hash=fa95eb02bdaddf0565bb155a40d46176" class="notranslate offerURL" target="_blank" data-payout="1.80" title="Complete with valid info"><span>Get a $100 Walmart Gift Card!</span></a><a href="/public/click.php?offer=32173539&amp;offer_position=2&amp;visitor_id=361386915&amp;it=734754&amp;m=0&amp;hash=3d325622b03550787c60c096e4838006" class="notranslate offerURL" target="_blank" data-payout="1.80" title="Complete with valid info"><span>Get a $100 Google Play Gift Card</span></a><a href="/public/click.php?offer=1194320&amp;offer_position=3&amp;visitor_id=361386915&amp;it=734754&amp;m=0&amp;hash=358d541e6cf2e838653e05be312d1360" class="notranslate offerURL" target="_blank" data-payout="1.80" title="Proceed through the survey"><span>Get a $100 Pizza Hut Gift Card!</span></a><a href="/public/click.php?offer=53167680&amp;offer_position=4&amp;visitor_id=361386915&amp;it=734754&amp;m=0&amp;hash=462a43e399d5efd7c204d1df6a487b3b" class="notranslate offerURL" target="_blank" data-payout="2.00" title="Install the Flash Player Update"><span>Install the Latest Flash Player on your PC Now!</span></a><a href="/public/click.php?offer=53167672&amp;offer_position=5&amp;visitor_id=361386915&amp;it=734754&amp;m=0&amp;hash=51a52d92cdafec3ca6b637c983d4987b" class="notranslate offerURL" target="_blank" data-payout="1.40" title="Install the flash player"><span>Install the Latest Flash Player on your PC Now!</span></a></div>
+            <div class="my-locker-body-text-bottom"><div class="loading-button"><i class="fa fa-spin fa-spinner"></i> - Offer Incomplete!</div></div>
+        </div>
+        <!-- END: Content Locker Offers -->
+
+    </div>
+    <!-- END: Content Locker Body -->
+
+    <!-- BEGIN: Locker Footer -->
+    <div id="my-locker-bottom">
+        <span>Complete <strong class="number-of-offers">1</strong> of the offers to get your resources.</span>
+    </div>
+    <!-- END: Locker Footer -->
+
+</div>
 </body>
 </html>
 <div id="my-locker" style="display: block;">
